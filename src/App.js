@@ -10,12 +10,12 @@ const items = [
     content: "React is front end js framework",
   },
   {
-    title: "Czy JP2 GMD?",
-    content: "Jeszcze jak",
+    title: "Test",
+    content: "Test1",
   },
   {
-    title: "Papiezowa godzina?",
-    content: "21;37",
+    title: "test2",
+    content: "test3",
   },
 ];
 
